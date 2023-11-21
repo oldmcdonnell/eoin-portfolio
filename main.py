@@ -13,3 +13,7 @@ with col2:
     Hello i am Eoin McDonnell, these are the projects I am working on
     """
     st.info(content)
+
+content2 = """Below you can find the apps that I developed"""
+
+st.info(content2)
